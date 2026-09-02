@@ -1,0 +1,2 @@
+cara update github:
+git add . ; git commit -m "nambah folder" ; git push origin main    
